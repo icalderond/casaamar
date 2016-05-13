@@ -4,6 +4,7 @@
 	License: Creative Commons Attribution 3.0 Unported
 	License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
+
 body{
 	margin:0;
 	padding:0;
@@ -386,7 +387,7 @@ ul.callbacks_tabs.callbacks1_tabs {
   -o-transform: scale(1);
   transform: scale(1);
 }
-.glyphicon-heart,.glyphicon-asterisk,.glyphicon-flag{
+.glyphicon-heart,.glyphicon-fire,.glyphicon-home{
 	color:#C7C7C7;
   font-size:35px;
 }
