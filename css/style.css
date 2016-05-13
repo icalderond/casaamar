@@ -228,11 +228,11 @@ span.menu{
 }
 /*--banner--*/
 .banner{
-	background:url(../images/bnr3.jpg) no-repeat 0px 0px;
+	background:url(../images/header_main.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	min-height:650px;
 	padding-top:17em;
-	text-align:center;
+	text-align:center;opacity:0.9;filter: alpha(opacity=90);.
 }
 .banner h2{
 	color:#fff;
